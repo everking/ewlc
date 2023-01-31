@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Navbar from "./components/Navbar";
 
 function App() {
   const embedId = "6fNmnlBC1LQ";
@@ -12,6 +13,7 @@ function App() {
   const homeImage = "https://www.eastwoodleadershipcamp.org/uploads/b/f99ed5cc0904b932b1989dfa8dc7e24ece9d4595bd2685b5b1d802b032bd5a58/IMG_20210714_172402950_HDR_1647317048.jpg?width=2000";
   return (
     <div className="App">
+      <Navbar />
       <div className="video-container">
         <iframe
           className="video"
