@@ -23,7 +23,7 @@ function App() {
           title="EWLC Video"
         />
       </div>
-      <img src={homeImage} alt="home image" />
+      <img src={homeImage} alt="home" />
     </div>
   );
 }
