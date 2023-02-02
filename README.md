@@ -1,3 +1,7 @@
+# Deployment
+* Project Console: https://console.firebase.google.com/project/ewlc-4efde/overview
+* Hosting URL: https://ewlc-4efde.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,5 +1,5 @@
 import "../styles/navbar.css"
-import logo from '../images/ewlc-logo-136.png';
+import logo from '../images/ewlc-logo-100.png';
 export default function Navbar() {
   return (
     <nav className="navigation">
@@ -31,7 +31,13 @@ export default function Navbar() {
             <a href="/about">About</a>
           </li>
           <li>
+            <a href="/gallery">Gallery</a>
+          </li>
+          <li>
             <a href="/contact">Contact</a>
+          </li>
+          <li>
+            <a href="/donate">Donate</a>
           </li>
         </ul>
       </div>
